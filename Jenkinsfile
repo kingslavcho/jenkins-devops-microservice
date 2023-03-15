@@ -24,4 +24,5 @@ pipeline{
 				echo "Integration Test"
 			}
 		}
+	}
 }
